@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: onlayn-kazino-reyting-luchshih-pr-0ec91.github.io
+Sitemap: https://onlayn-kazino-reyting-luchshih-pr-0ec91.github.io/sitemap.xml
